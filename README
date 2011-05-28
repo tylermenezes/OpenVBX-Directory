@@ -1,0 +1,5 @@
+== Installation ==
+1. Upload "directory" to the plugins folder in your OpenVBX installation
+2. Go to your installation and configure it in the workflow
+3. Configure users in the "Edit Directory" section.
+4. Done!

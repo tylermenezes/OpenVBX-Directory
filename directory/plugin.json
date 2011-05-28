@@ -1,0 +1,12 @@
+{
+	"name" : "Directory",
+	"author" : "Tyler Menezes",
+	"description" : "Adds directory features to OpenVBX: directory lookups and direct extension dialing",
+	"url" : "https://tyler.menez.es/",
+	"links" : [{
+                        "menu" : "Directory",
+                        "url" : "edit",
+                        "script" : "edit.php",
+                        "label" : "Edit"
+                  }]
+}

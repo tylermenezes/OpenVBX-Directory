@@ -47,7 +47,7 @@
 				$verb = AudioSpeechPickerWidget::getVerbForValue($notFoundText, null);
 				$response->append($verb);
 			}else{			 
-				$gather->addSay("No entries found.");
+				$response->addSay("No entries found.");
 			}
 			$response->addRedirect();
 		}else{
